@@ -9,16 +9,11 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    
     font-family: sans-serif;
     background-color: powderblue;
     
     
-}
-.WebContainer{
-    width:100%;
-    min-width:1000px;
-    height:auto;
 }
 
 /* Book */
