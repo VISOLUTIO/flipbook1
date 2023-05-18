@@ -12,17 +12,11 @@ body {
 
     font-family: sans-serif;
     background-color: powderblue;
-    margin: 0;
-    width: 100vw;
+    
     
 }
 
-div {
-  max-width: 768px;
-  max-height: 1024px;
-  margin: auto;
-  display: block;
-}
+
 
 /* Book */
 .book {
